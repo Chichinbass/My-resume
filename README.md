@@ -4,7 +4,14 @@
 
 * 🌍 Я проживаю в Санкт-Петербурге
 * ⚡ Смотрите мое портфолио на <a href="https://spb.hh.ru/applicant/resumes?hhtmFrom=settings&hhtmFromLabel=header"><img src="https://github.com/user-attachments/assets/06760140-3d8a-48d0-b33d-0031610467e7" alt="min-hh-red" width="30" height="30" style="vertical-align:middle;"></a>
-* ✉️ Вы можете связаться со мной по [arevkov01@bk.ru](mailto:arevkov01@bk.ru)
+* ✉️ Вы можете связаться со мной [arevkov01@bk.ru](mailto:arevkov01@bk.ru)
+
+---
+
+<p align="left">
+<a href="https://t.me/Grandfather_trickster" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="36" height="36" alt="Telegram" style="vertical-align:middle;"></a>
+<a href="https://vk.com/id63564847" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="36" height="36" alt="VK" style="vertical-align:middle;"></a>
+</p>
 
 
 ### Skills
