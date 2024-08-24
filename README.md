@@ -3,7 +3,7 @@
 Я начинающий Backend разработчик. Я изучал C++, Java, Kotlin, но эти языки меня не зацепили. Впоследствии я открыл для себя Rust и решил, что буду заниматься Backend программированием. После изучения документации по этому языку я решил заниматься Web направлением.
 
 * 🌍 Я проживаю в Санкт-Петербурге
-* ⚡ Смотрите мое портфолио на [![min-hh-red](https://github.com/user-attachments/assets/06760140-3d8a-48d0-b33d-0031610467e7)](https://spb.hh.ru/applicant/resumes?hhtmFrom=settings&hhtmFromLabel=header)
+* ⚡ Смотрите мое портфолио на <a href="https://spb.hh.ru/applicant/resumes?hhtmFrom=settings&hhtmFromLabel=header"><img src="https://github.com/user-attachments/assets/06760140-3d8a-48d0-b33d-0031610467e7" alt="min-hh-red" width="30" height="30" style="vertical-align:middle;"></a>
 * ✉️ Вы можете связаться со мной по [arevkov01@bk.ru](mailto:arevkov01@bk.ru)
 
 
