@@ -4,7 +4,7 @@
 
 * 🌍 Я проживаю в Санкт-Петербурге
 * ⚡ Смотрите мое портфолио на [![min-hh-red](https://github.com/user-attachments/assets/06760140-3d8a-48d0-b33d-0031610467e7)](https://spb.hh.ru/applicant/resumes?hhtmFrom=settings&hhtmFromLabel=header)
-* ✉️ Вы можете связаться со мной по [![icons8-почта-96](https://github.com/user-attachments/assets/d298b4ee-babf-4c6c-ad13-7ca4d3aebb6a)](mailto:arevkov01@bk.ru)
+* ✉️ Вы можете связаться со мной по [arevkov01@bk.ru](mailto:arevkov01@bk.ru)
 
 
 ### Skills
