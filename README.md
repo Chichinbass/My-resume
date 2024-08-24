@@ -1,3 +1,7 @@
+
+
+
+![Your GIF](https://camo.githubusercontent.com/8e43ebf0fd34f9d56e3d4efb85a63da5a9d9ee69b074874f340b8b26c70bf540/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234)
 <p style="text-align: center;"> Привет👋 Меня зовут Кирилл!</p>
 Обо мне
 Я начинающий Backend разработчик. Я изучал C++, Java, Kotlin, но эти языки меня не зацепили. Впоследствии я открыл для себя Rust и решил, что буду заниматься Backend программированием. После изучения документации по этому языку я решил заниматься Web направлением.
@@ -28,12 +32,9 @@
 <a href="https://tokio.rs/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/8049534/225933051-f35cbf70-737f-4088-9cb0-cf2dfab53601.png" width="36" height="36" alt="Tokio" /> </a> <a href="https://actix.rs/" target="_blank" rel="noreferrer"> <img src="https://actix.rs/img/logo.png" width="36" height="36" alt="Actix-web" /> </a> <a href="https://diesel.rs/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/8049534/225933055-9b159789-3fd5-4d68-8506-0e5b60c1845c.png" width="36" height="36" alt="Diesel" /> </a> <a href="https://www.shuttle.rs/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/8049534/225933062-9f6fdbd1-c69e-4413-a854-c9d72b4f7155.png" width="36" height="36" alt="Shuttle" /> </a> </p>
 
 
+
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Chichinbass"><img src="https://github-readme-stats.vercel.app/api?username=Chichinbass&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chichinbass's GitHub stats" /></a>
+<a href="http://www.github.com/Chichinbass"><img src="https://github-readme-stats.vercel.app/api?username=Chichinbass&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="Chichinbass's GitHub stats" /></a>
 
-<a href="http://www.github.com/Chichinbass"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chichinbass&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Chichinbass" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chichinbass&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
+<a href="http://www.github.com/Chichinbass"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chichinbass&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
