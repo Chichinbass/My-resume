@@ -10,18 +10,42 @@
 <a href="https://t.me/Grandfather_trickster" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="36" height="36" alt="Telegram" style="vertical-align:middle;"></a>
 <a href="https://vk.com/id63564847" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="36" height="36" alt="VK" style="vertical-align:middle;"></a>
 </p>
+<p align="left"> <a href="https://www.github.com/Chichinbass" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<b>My GitHub Stats</b>
 
-
-### Skills
+### Навыки
 
 <p align="left">
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
+### Язык программирования (Language):
+<p align="left">
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
+</p>
 
-### Socials
+### Инструменты (Tools):
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.jetbrains.com/rust/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/JetBrains_logo.svg" width="36" height="36" alt="RustRover" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudio-colored.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/Chichinbass" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-<b>My GitHub Stats</b>
+### Базы данных (Databases):
+<p align="left">
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="Postgres" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+
+### Фреймворки и библиотеки (Frameworks & Libraries):
+<p align="left">
+<a href="https://tokio.rs/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/30032344?s=200&v=4" width="36" height="36" alt="Tokio" /></a>
+<a href="https://actix.rs/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/13135415?s=200&v=4" width="36" height="36" alt="Actix-web" /></a>
+<a href="https://diesel.rs/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/16717403?s=200&v=4" width="36" height="36" alt="Diesel" /></a>
+<a href="https://www.shuttle.rs/" target="_blank" rel="noreferrer"><img src="https://shuttle.rs/assets/images/logo-dark.png" width="36" height="36" alt="shuttle" /></a>
+</p>
+
 
 <a href="http://www.github.com/Chichinbass"><img src="https://github-readme-stats.vercel.app/api?username=Chichinbass&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chichinbass's GitHub stats" /></a>
 
