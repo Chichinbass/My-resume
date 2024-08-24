@@ -24,7 +24,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/JetBrains_logo.svg" width="36" height="36" alt="JetBrains" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
 ### Базы данных (Databases):
@@ -34,12 +34,7 @@
 </p>
 
 ### Фреймворки и библиотеки (Frameworks & Libraries):
-<p align="left">
-<a href="https://tokio.rs/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/30032344?s=200&v=4" width="36" height="36" alt="Tokio" /></a>
-<a href="https://actix.rs/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/13135415?s=200&v=4" width="36" height="36" alt="Actix-web" /></a>
-<a href="https://diesel.rs/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/16717403?s=200&v=4" width="36" height="36" alt="Diesel" /></a>
-<a href="https://www.shuttle.rs/" target="_blank" rel="noreferrer"><img src="https://shuttle.rs/assets/images/logo-dark.png" width="36" height="36" alt="shuttle" /></a>
-</p>
+<p align="left"> <a href="https://tokio.rs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tokio-rs/website/master/public/img/tokio-logo.svg" width="36" height="36" alt="Tokio" /> </a> <a href="https://actix.rs/" target="_blank" rel="noreferrer"> <img src="https://actix.rs/img/logo.png" width="36" height="36" alt="Actix-web" /> </a> <a href="https://diesel.rs/" target="_blank" rel="noreferrer"> <img src="https://diesel.rs/img/diesel_logo.png" width="36" height="36" alt="Diesel" /> </a> <a href="https://www.shuttle.rs/" target="_blank" rel="noreferrer"> <img src="https://shuttle.rs/assets/images/logo-dark.png" width="36" height="36" alt="Shuttle" /> </a> </p>
 
 
 <a href="http://www.github.com/Chichinbass"><img src="https://github-readme-stats.vercel.app/api?username=Chichinbass&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chichinbass's GitHub stats" /></a>
